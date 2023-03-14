@@ -1,6 +1,6 @@
-# init.lua
-Neovim config using Lazy.nvim
+# Lazy init.lua
+##Neovim config using Lazy.nvim
 
 
 ThePrimeagen's init.lua which config using lazy.nvim instead of packer.
-Prerequisite: install ripgrep, fd
+Prerequisite: install ripgrep, fd, npm
